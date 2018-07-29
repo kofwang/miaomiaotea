@@ -53,3 +53,4 @@ TeaMarket.prototype = {
         return "successful"
     },
 }
+module.exports = TeaMarket;
